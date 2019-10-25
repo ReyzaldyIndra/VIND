@@ -18,5 +18,5 @@ Flow akan mulai dan berakhir pada Line Bot.
 
 ## Developed by
 
-Arya Bariz, Yudit Adythia Putra, and Reyzaldy Indra
+Arya Bariz, Yudit Adythia Putra, Ihsan Rahman, and Reyzaldy Indra
 
